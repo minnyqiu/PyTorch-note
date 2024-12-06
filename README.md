@@ -10,3 +10,13 @@ the usage of python file, console, Jupyter Notebook
 the usage of Dataset
 
 ## p7-8
+the usage of tensorboard and SummaryWriter
+
+## p9
+the usage of transforms
+
+## p10
+commonly used transforms
+
+## p10
+dataset and transforms
