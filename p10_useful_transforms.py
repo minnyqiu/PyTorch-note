@@ -46,7 +46,6 @@ for i in range(10):
 writer.close()
 
 '''
-
 常见的transforms 
 1.关注输入和输出类型 看官方文档 看类里面 __init__ 需要什么参数
 
@@ -63,4 +62,3 @@ result[-1,1]
 使用console 关注输出
 tensorboard --logdir=PyTorch-note/logs --port=6007
 '''
-
