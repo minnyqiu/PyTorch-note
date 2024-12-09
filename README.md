@@ -32,3 +32,6 @@ build conv nn
 
 ## p14
 introduction of MaxPool
+
+## p15
+non-linear activations
