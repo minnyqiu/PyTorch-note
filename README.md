@@ -35,3 +35,6 @@ introduction of MaxPool
 
 ## p15
 non-linear activations
+
+## p16
+Linear Layers
