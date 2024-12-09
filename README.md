@@ -29,3 +29,6 @@ brief introduction of nn class
 
 ## p13
 build conv nn
+
+## p14
+introduction of MaxPool
