@@ -26,3 +26,6 @@ the usage of DataLoader
 
 ## p12
 brief introduction of nn class
+
+## p13
+build conv nn
