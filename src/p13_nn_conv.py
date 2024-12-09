@@ -12,7 +12,7 @@ kernel = torch.tensor([[1,2,1],
                        [2,1,0]]) # torch.Size([3, 3]) 
 
 # 用reshape使其符合conv2d输入
-input = torch.reshape(input, (1,1,5,5)) # batch size, channel, 
+input = torch.reshape(input, (1,1,5,5)) # batch size, channel, h, w
 
 kernel = torch.reshape(kernel, (1,1,3,3))
 
