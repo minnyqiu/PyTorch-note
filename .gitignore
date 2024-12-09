@@ -1,7 +1,5 @@
 # dataset
-data/hymenoptera_data
-data/cifar-10-python.tar.gz
-data/cifar-10-batches-py
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
