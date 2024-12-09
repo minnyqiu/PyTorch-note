@@ -23,3 +23,6 @@ dataset and transforms
 
 ## p11
 the usage of DataLoader
+
+## p12
+brief introduction of nn class
