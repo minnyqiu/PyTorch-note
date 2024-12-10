@@ -44,3 +44,5 @@ the usage of Sequential
 
 <img src="assets/Structure-of-CIFAR10-quick-model.png" alt="Structure-of-CIFAR10-quick-model" width="400">
  
+## p18
+Loss Functions
