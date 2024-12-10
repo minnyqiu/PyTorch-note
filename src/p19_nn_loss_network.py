@@ -40,5 +40,5 @@ for data in dataloader:
     # print(result_loss)
 
     # 2.为更新输出提供一定的依据（反向传播）grad
-    result_loss.backward() # debug 看grad - tudui - model1 - _modules - 0 - Continue
+    result_loss.backward() # debug 看grad - tudui - model1 - _modules - 0 - weight - grad Continue
     print('ok')
