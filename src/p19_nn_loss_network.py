@@ -1,4 +1,3 @@
-from unittest import result
 import torchvision
 from torch import nn
 from torch.utils.data import DataLoader

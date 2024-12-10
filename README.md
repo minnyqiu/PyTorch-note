@@ -46,3 +46,6 @@ the usage of Sequential
  
 ## p18
 Loss Functions
+
+## p19
+loss network
