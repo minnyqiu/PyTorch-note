@@ -49,3 +49,6 @@ Loss Functions
 
 ## p19
 loss network
+
+## p20
+the usage of optimizer
