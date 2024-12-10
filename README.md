@@ -52,3 +52,6 @@ loss network
 
 ## p20
 the usage of optimizer
+
+## p21
+modify the vgg16
