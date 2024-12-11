@@ -55,3 +55,7 @@ the usage of optimizer
 
 ## p21
 modify the vgg16
+
+## p22
+save and load model
+
