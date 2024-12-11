@@ -1,7 +1,9 @@
 # dataset
-data
+data/
 
-logs
+logs/
 
-output
+output/
+
+__pycache__/
 
