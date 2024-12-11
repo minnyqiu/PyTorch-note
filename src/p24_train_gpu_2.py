@@ -65,7 +65,7 @@ total_train_step = 0
 total_test_step = 0
 
 # 训练轮数
-epoch = 10
+epoch = 20
 
 # 添加tensorboard
 writer = SummaryWriter('/home/data/minyu/PyTorch-note/logs/p24')
