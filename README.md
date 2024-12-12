@@ -59,3 +59,11 @@ modify the vgg16
 ## p22
 save and load model
 
+## p23
+train  the model and eval
+
+## p24
+train the model on GPU
+
+## p25
+eval the model
